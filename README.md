@@ -7,7 +7,7 @@ The CSV files contain the estimated quaternions and ground truth for specific ti
 
 Please do not hesitate to send me an e-mail if you had any questions regarding implementation, etc.
 
-The main accomplished works on IMU orientation estimation:
+The main accomplished works on IMU orientation estimation, and inertial odometry:
 
 [1] https://ieeexplore.ieee.org/document/8931590
 [2] https://ieeexplore.ieee.org/document/8693766
