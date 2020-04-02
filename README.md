@@ -1,5 +1,4 @@
-# OriNet
-OriNet: Robust 3-D Orientation Estimation With a Single Particular IMU
+# OriNet: Robust 3-D Orientation Estimation With a Single Particular IMU
 
 This repository contains OriNet data for comparison on the EuRoC MAV Dataset.
 
